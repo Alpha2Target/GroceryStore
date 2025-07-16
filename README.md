@@ -39,9 +39,6 @@ This app uses a regression-based ML model trained on historical product trends. 
 
 ## 🖼️ Screenshots
 
-### 🔐 Seller Login
-![Seller Login](./screenshots/1_seller_login.png)
-
 ### ➕ Add New Product
 ![Add Product](./screenshots/2_add_product.png)
 
